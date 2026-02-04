@@ -55,7 +55,9 @@ streamlit run main.py
 
 ### Some queries you can try 
 **Give me weather in Delhi ?**
+
 **Tell me weather in Mumbai and give me top machine learning repo from github ?**
+
 **Give me top AI agents repo from github ?**
 
 **Build with love by Abhishek**
