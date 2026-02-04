@@ -26,8 +26,8 @@ The system follows a strict multi-agent pipeline:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd ai_ops_assistant
+    git clone https://github.com/Abhishek2634/truly_madly.git
+    cd truly_madly
     ```
 
 2.  **Create Virtual Environment:**
@@ -51,3 +51,6 @@ The system follows a strict multi-agent pipeline:
 Run the Streamlit app with one command:
 ```bash
 streamlit run main.py
+```
+
+**Build with love by Abhishek**
