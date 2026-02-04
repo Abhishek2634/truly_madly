@@ -60,4 +60,3 @@ streamlit run main.py
 
 **Give me top AI agents repo from github ?**
 
-**Build with love by Abhishek**
